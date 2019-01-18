@@ -1,0 +1,11 @@
+#totalVal {
+  height: 40px;
+  width: 169px;
+  text-align: right;
+  border: 1px solid black
+}
+button {
+  height: 40px;
+  width: 40px;
+}
+
